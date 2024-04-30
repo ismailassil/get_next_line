@@ -25,3 +25,7 @@ The `get_next_line` function is a custom file reading function implemented in C.
 **Project Origin:**
 
 This function is part of the 42 curriculum, a coding education program where students develop projects to enhance their skills in various programming languages, including C. The get_next_line project is designed to improve understanding of file I/O operations, memory management, and string manipulation in the C programming language.
+
+## Acknowledgements
+
+get_next_line was developed by students at 1337School as part of their curriculum. Special thanks to the instructors and staff for their guidance and support.
